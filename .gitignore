@@ -1,0 +1,16 @@
+
+# LTspice - arquivos gerados
+*.raw
+*.log
+*.net
+*.op.raw
+*.bak
+*.tmp
+
+# Arquivos temporarios do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporarios de editores
+*.swp
+*~
